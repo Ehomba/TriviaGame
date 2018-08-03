@@ -42,7 +42,7 @@ var question8 = new Question ("Who is the sentinel sent from the future to destr
 
 var stopwatch = {
 
-    time: 4,
+    time: 30,
 
 reset: function() {
 
