@@ -15,6 +15,7 @@ var imageArray = [
     '<img src="assets/images/xmen6.jpg">',
     '<img src="assets/images/xmen9.jpg">',
     '<img src="assets/images/xmen8.jpg">',
+    '<img src="assets/images/xmen7.gif">',
 ]
 
 //Question object orientation
