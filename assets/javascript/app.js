@@ -8,7 +8,7 @@ var clockRunning = false;
 var index = 0;
 var imageArray = [
     '<img src="smiley.gif" alt="Smiley face" height="42" width="42">',
-    '<img src="assets/images/X-men1.png">',
+    '<img src="assets/images/X-Men1.png">',
     '<img src="assets/images/xmen2.jpg">',
     '<img src="assets/images/xmen3.jpg">',
     '<img src="assets/images/xmen5.jpg">',
