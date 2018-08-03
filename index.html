@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Css -->
+<link rel="stylesheet" href="assets/css/style.css">
+<!--Jquery-->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
+<!--Bootstrap-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <!--Title card-->
+    <div class="jumbotron">
+            <h1 id="jumbo" class="text-center">X-Men Trivia</h1>
+    </div>
+    
+    <button id="Start" type="button" class="btn btn-warning btn-lg btn-block">Start</button>
+    
+    <div id="display">00:00</div>
+    <div id="question"></div>
+    <div id="answers">
+        <button id="answer1" type="button" class="btn btn-warning btn-lg" onclick='f1(this)' value=""></button>
+        <button id="answer2" type="button" class="btn btn-warning btn-lg" onclick='f1(this)' value=""></button>
+        <button id="answer3" type="button" class="btn btn-warning btn-lg" onclick='f1(this)' value=""></button>
+        <button id="answer4" type="button" class="btn btn-warning btn-lg" onclick='f1(this)' value=""></button>
+    </div>
+
+</div>
+<script type="text/javascript" src="assets/javascript/app.js">
+</script>
+</body>
+</html>

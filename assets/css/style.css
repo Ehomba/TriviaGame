@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("https://media.giphy.com/media/73hW9S1RwAUaQ/giphy.gif");
+    background-size: 1110px 180px;
+    height: 180px;
+    width: 1110px;
+}
+#jumbo{
+    font-size: 100px;
+    color: yellow;
+}
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/marveldatabase/images/5/5c/All-New_X-Men_Vol_1_27_Alex_Ross_Variant_Textless.jpg/revision/latest?cb=20140221003320");
+    background-repeat: no-repeat;
+    background-position: 150px 150px;
+    background-color: black !important;    
+}
+#display{
+    font: outline;
+    font-size: 36px;
+    color: yellow;
+}
+#question{
+    font: outline;
+    font-size: 36px;
+    color: blue;
+}
